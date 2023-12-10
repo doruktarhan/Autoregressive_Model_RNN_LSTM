@@ -12,7 +12,7 @@ Requires Python 3.x and libraries like TensorFlow/PyTorch, NumPy, etc.
 
 ## Usage
 1. **Data Preparation**: Run `data_rnn.py` for dataset download and preprocessing.
-2. **Model Training**: Execute `Autoregressive_Model.ipynb` for the entire process, from data loading to model evaluation.
+2. **Model Training**: Execute `Autoregressive_Model.ipynb` for the entire process, from data loading to model evaluation. The notebook is compatible with Google Colab GPUs. 
 3. **Results Analysis**: Review the output for performance insights.
 
 ## Features
